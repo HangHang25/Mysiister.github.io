@@ -59,9 +59,7 @@
 		<p><font color="#800080" face="Arial" size="4">Thank you for taking the time to get to know me!</font></p>
 		<p>&nbsp;</td>
 	</tr>
-</table>
+
 <p>&nbsp;</p>
 
-</body>
 
-</html>
