@@ -3,7 +3,6 @@
 <head>
 <meta http-equiv="Content-Language" content="vi">
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1258">
-<title>New Page 1</title>
 </head>
 
 <body bgcolor="#CCFFCC">
